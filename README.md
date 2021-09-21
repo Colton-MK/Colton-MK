@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Colton-MK
-      - The Run Down: I'm an engineer and am new to programming. I have some academic exposure to MATLAB. On my own, I've done some experimenting with HTML, CSS, C++, and Python.
-                      I'm also a pretty big Taekwondo fanatic.
+      - 🏃 I'm an engineer and am new to programming. I have some academic exposure to MATLAB. On my own, I've done some experimenting with HTML, CSS, C++, and Python.
+                      I'm also a pretty big Taekwondo fanatic, I've been doing it for 17 years now. I also practiced soccer for 12.
 - 👀 I’m interested in robotics, gui automation, and computer decision making.
-- 🌱 I’m currently learning python, PLC ladder logic, and basic Computer Science such as hardware and networking fundamentals.
+- 🌱 I’m currently learning python, PLC ladder logic, and basic Computer Science such as digital logic, computer architecture, and networking fundamentals.
 - 💞️ I’m looking to collaborate on (nothing at the moment, as I want to get some basic skills and write a few more low level projects before messing with anything important)
 - 📫 How to reach me (I'll figure out where is best soon enough. If you can contact me through here, that works great.)
 
